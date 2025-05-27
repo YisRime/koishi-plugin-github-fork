@@ -79,7 +79,7 @@ class GitHub extends Service {
       name: 'string(50)',
       secret: 'string(50)',
     }, {
-      primary: 'id',
+      autoInc: true,
     })
 
     ctx.plugin(events, this)
