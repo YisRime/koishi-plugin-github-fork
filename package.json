@@ -80,7 +80,7 @@
     "sass": "^1.69.5",
     "shx": "^0.3.4",
     "typescript": "^5.3.3",
-    "vitepress": "1.0.0-rc.10",
+    "vitepress": "1.0.0-rc.31",
     "yml-register": "^1.1.0"
   },
   "peerDependencies": {
