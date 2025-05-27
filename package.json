@@ -1,6 +1,6 @@
 {
-  "name": "koishi-plugin-github",
-  "description": "GitHub Toolkit for Koishi",
+  "name": "koishi-plugin-github-fork",
+  "description": "GitHub Toolkit for Koishi [Fork]",
   "version": "5.5.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -8,13 +8,16 @@
     "lib"
   ],
   "author": "Shigma <shigma10826@gmail.com>",
+  "contributors": [
+    "Yis_Rime <yis_rime@outlook.com>"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koishijs/koishi-plugin-github.git"
+    "url": "git+https://github.com/YisRime/koishi-plugin-github-fork.git"
   },
   "bugs": {
-    "url": "https://github.com/koishijs/koishi-plugin-github/issues"
+    "url": "https://github.com/YisRime/koishi-plugin-github-fork/issues"
   },
   "homepage": "https://github.koishi.chat",
   "keywords": [
